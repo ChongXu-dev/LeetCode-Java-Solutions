@@ -1,0 +1,24 @@
+# Git ignore file for LeetCode Java Solutions
+
+# Ignore LeetCode plugin generated files
+src/leetcode/
+
+# IDEA project files
+.idea/
+*.iml
+
+# Build files
+build/
+out/
+
+# Maven files
+target/
+
+# Gradle files
+gradle/
+build.gradle
+settings.gradle
+
+# OS generated files
+.DS_Store
+Thumbs.db
